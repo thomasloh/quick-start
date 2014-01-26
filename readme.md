@@ -1,14 +1,14 @@
-### Get started quick on [insert your project name here]!
+### Get started quick on [insert_project_name_here]
 
-#### the 'What'
+#### What?
 
 Get up and running quick with trying new things on the web without the hassle of setting things up. Basic grunt configurations for watching file changes (livereload) and starting a static server.
 
-#### the 'Why'
+#### Why?
 
 Because people are inherently lazy
 
-#### the 'How'
+#### How?
 
 ```bash
 git clone git@github.com:thomasloh/quick-start.git
