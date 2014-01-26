@@ -1,0 +1,7 @@
+## Get started quick on [insert your project name here]!
+
+```bash
+cd quick-start
+npm install
+grunt
+```
